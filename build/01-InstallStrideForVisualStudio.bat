@@ -16,3 +16,4 @@ pause
 exit /b 1
 :vsixok
 "%STRIDE_VSIX%"
+let brack this thing 
